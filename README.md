@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stucii
 - 👀 I’m interested in getting into programming
-- 🌱 I’m currently learning python programming
+- 🌱 I’m currently learning python and SQL programming
 - 💞️ I’m looking to collaborate on any kind of basic, beginner projects.
 
 
